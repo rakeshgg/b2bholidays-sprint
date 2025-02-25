@@ -45,9 +45,9 @@ Please follow the steps below to run the `main.py` file and insert XML data:
        </Paxes>
    </AvailRQ>
 """
-   ```
 
-3. **Run the `main.py` script:**  
+
+3. **Run the `main.py`
    ```sh
    python main.py
    ```
