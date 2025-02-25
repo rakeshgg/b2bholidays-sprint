@@ -14,7 +14,7 @@ Please follow the steps below to run the `main.py` file and insert XML data:
 2. **Open `main.py` and insert your XML in the `xml_input` variable.**  
    Example:
    ```python
-   xml_input = """<AvailRQ>
+xml_input = """<AvailRQ>
     <timeoutMilliseconds>25000</timeoutMilliseconds>
     <source>
         <languageCode>en</languageCode>
