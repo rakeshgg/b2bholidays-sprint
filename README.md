@@ -43,8 +43,7 @@ Please follow the steps below to run the `main.py` file and insert XML data:
        <Paxes>
            <Pax type="Adult"/>
        </Paxes>
-   </AvailRQ>
-"""
+   </AvailRQ>"""
 
 
 3. **Run the `main.py`
